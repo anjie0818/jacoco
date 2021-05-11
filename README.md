@@ -40,6 +40,9 @@ java -jar jacococli.jar classinfo target/classes/com/neo/controller/HelloWorldCo
     * 原因一：一个类多个统计结果（类名相同，类id不同，merage是安装id进行操作的） 
         * https://blog.csdn.net/qq744746842/article/details/115058826
         * https://blog.csdn.net/qq744746842/article/details/111713216
+    * 原因二：https://testerhome.com/topics/20632
+* 负载均衡统计覆盖率
+    * 直接统计到一个exec文件就可以
 ### 探索
 * “代码变更覆盖率”在后端测试中的实践
     * https://blog.csdn.net/weixin_34255055/article/details/86016254
