@@ -18,7 +18,7 @@ java -javaagent:jacocoagent.jar=includes=*,output=tcpserver,port=9100,address=12
  
  ------------------------------
  
- # html在jenkins中如何显示   「」「」「」「」「」」「」「」「」「高优级别
+ # html在jenkins中显示
  * jmeter-report
  * jacoco-report
  
